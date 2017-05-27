@@ -1,0 +1,9 @@
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\bin\Debug\WindowsFormsApplication1 calculator new.exe.config
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\bin\Debug\WindowsFormsApplication1 calculator new.exe
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\bin\Debug\WindowsFormsApplication1 calculator new.pdb
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1 calculator new.csprojResolveAssemblyReference.cache
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1_calculator_new.Form1.resources
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1_calculator_new.Properties.Resources.resources
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1 calculator new.csproj.GenerateResource.Cache
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1 calculator new.exe
+c:\users\hashipc\documents\visual studio 2013\Projects\WindowsFormsApplication1 calculator new\WindowsFormsApplication1 calculator new\obj\Debug\WindowsFormsApplication1 calculator new.pdb
